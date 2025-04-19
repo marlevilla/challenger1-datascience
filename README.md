@@ -24,10 +24,46 @@ El objetivo es ayudar al Sr. Juan, dueño de la cadena **Alura Store**, a decidi
 
 - Python  
 - Pandas  
-- Matplotlib / Seaborn  
-- Jupyter Notebook  
-- Power BI / Tableau (si aplica)  
-- etc.
+- Matplotlib  
+- Jupyter Notebook
+
+## 📌 Nombre del archivo
+alura_store_analysis.ipynb
+
+## 📌 Bases de datos
+tienda.csv 
+tienda_2.csv 
+tienda_3.csv
+tienda_4.csv
+
+## 📌 Conclusión
+La tienda que da menos ganancias y sería candidata a vender es la  Tienda 2 .
+
+Aquí están los motivos:
+📉 Ingresos Totales :
+
+Tienda 2 tuvo los ingresos más bajos: $22,803.40
+
+📉 Calificación Promedio de Clientes :
+
+También tiene la calificación promedio más baja : 3.88 , lo que indica menor satisfacción del cliente.
+
+📉 Costo de Envío Promedio :
+
+Además, su costo de envío es el más alto : $5.10
+
+📉 Productos menos populares :
+
+Las categorías más vendidas en Tienda 2 no se destacan frente a otras tiendas, lo que sugiere una oferta menos atractiva o desalineada con lo que buscan los clientes.
+
+
+
+
+
+
+
+  
+
 
 
 
