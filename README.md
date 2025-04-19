@@ -4,8 +4,8 @@
 
 <h2 align="left">📌 Descripción del Proyecto</h2>
 Analizar el rendimiento de 4 tiendas a través de claves métricas como:
-+Facturación total
-+Calificación promedio de los clientes
+** Facturación total
+** Calificación promedio de los clientes
 +Costo promedio de envío
 +Productos más y menos vendidos
 +Categorías con mayor volumen de ventas
