@@ -54,6 +54,18 @@ Además, su costo de envío es el más alto : $5.10
 
 Las categorías más vendidas en Tienda 2 no se destacan frente a otras tiendas, lo que sugiere una oferta menos atractiva o desalineada con lo que buscan los clientes.
 
+## 📌 Desafío propuesto por
+Alura LATAM – Programa ONE: Oracle Next Education
+Desafío de Ciencia de Datos – Etapa Análisis y Visualización
+
+## 📌 ✍️ Autor
+Claudia Marlene Villarreal Torres
+Estudiante de Ciencia de Datos 💡
+
+
+
+
+
 
 
 
