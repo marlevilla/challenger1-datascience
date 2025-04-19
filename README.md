@@ -20,8 +20,6 @@ El objetivo es ayudar al Sr. Juan, dueño de la cadena **Alura Store**, a decidi
 
 ## 📌 Herramientas utilizadas
 
-<!-- Puedes completar esta sección con las herramientas utilizadas, por ejemplo: -->
-
 - Python  
 - Pandas  
 - Matplotlib  
